@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: synticca
+description: "Synticca is an 80s synthwave themed Jekyll theme."
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
